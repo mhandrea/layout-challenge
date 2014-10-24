@@ -6,7 +6,8 @@ body {
 	font-size: 18px;
 	font-weight: 300;
 	background: url('../img/background.jpg');
-	background-size: 100%;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
 
@@ -89,4 +90,8 @@ footer, .header, .info, .menu, .about {
 	font-style: italic;
 	margin-left: 1em;
 	margin-bottom: 1em;
+}
+
+.container-fluid {
+
 }
