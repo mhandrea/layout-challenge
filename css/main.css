@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway);
-@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400);
+@import url(http://fonts.googleapis.com/css?family=Raleway:300);
 
 body {
 	font-family: 'Lato', 'Helvetica Neue', 'Helvetica', 'sans-serif';
@@ -104,8 +104,7 @@ footer, .header, .info, .menu, .about {
 }
 
 .menu {
-	background-color: rgb(207, 205, 140); 
-	opacity = 0.5;
+	background-color: rgba(207, 205, 140, 0.5); 
 }
 
 .descriptions {
